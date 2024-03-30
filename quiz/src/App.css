@@ -1,0 +1,13 @@
+/* App.css */
+
+body {
+  background: rgb(213,11,39);
+background: linear-gradient(90deg, rgba(213,11,39,1) 0%, rgba(36,204,30,1) 41%, rgba(0,22,255,1) 100%);
+  color: #ffffff;
+  }
+  
+  .app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+  }
+  
